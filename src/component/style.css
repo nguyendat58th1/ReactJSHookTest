@@ -1,0 +1,15 @@
+
+.box {
+  background-color: cyan;
+  height: 50px;
+  width: 50px;
+  border-style: solid;
+  text-align: center;
+}
+.box-hover {
+  background-color: pink;
+  height: 50px;
+  width: 50px;
+  border-style: solid;
+  text-align: center;
+}

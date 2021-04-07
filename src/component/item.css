@@ -1,0 +1,9 @@
+.item-left {
+    float: left;
+}
+.item-right {
+    float: right;
+}
+.content {
+  margin-top: 20px;
+}
